@@ -19,11 +19,10 @@ color: #FFC0CB;
 h2 {
 font-size: 14px;
 text-align: center;
-color: black;
+color: #000000;
 }
 p {
 font-size: 12px;
-font-family: arial;
 text-align: justify;
 color: #000000;
 }
