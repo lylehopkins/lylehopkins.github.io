@@ -26,8 +26,12 @@ font-size: 12px;
 text-align: justify;
 color: #000000;
 }
-a:link, a:visited, a:hover, a:active {
+a:link,
+a:visited,
+a:hover,
+a:active {
+font-weight: bold;
 color: #000000;
 background-color: transparent;
-text-decoration: underline;
+text-decoration: none;
 }
