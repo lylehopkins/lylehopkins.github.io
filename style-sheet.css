@@ -3,6 +3,7 @@
 }
 
 body {
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
   width: 100%;
@@ -13,7 +14,7 @@ body {
 
 .container {
   background-color: #ffffff;
-  max-width: 300px;
+  max-width: 90%;
   height: 100%;
   margin: auto;
 }
@@ -21,18 +22,20 @@ body {
 h1 {
   font-size: 17vw;
   text-align: center;
-  color: #FFC0CB;
+  color: #ffc0cb;
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 50px;
   text-align: center;
-  color: #FFC0CB;
+  color: #ffc0cb;
 }
 
 p {
-  font-size: 14px;
-  text-align: justify;
+  padding-top: 500px;
+  padding-bottom: 500px;
+  font-size: 20px;
+  text-align: center;
   color: #000000;
 }
 
