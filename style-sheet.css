@@ -8,6 +8,7 @@ padding: 10px;
 cursor: s-resize;
 }
 .container {
+background-color: #ffffff;
 max-width: 350px;
 margin: auto;
 }
