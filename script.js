@@ -5,11 +5,8 @@ return items[Math.floor(Math.random()*items.length)];
      
 }
 
-var items = ['who is listening?', 'what is sounding?', 'what is the quality of the sound?', 'WHAT IS THE CHARACTER OF THE SOUND?', 'where is the listener?', 'when do sounds arise?', 'why judge sounds?', 'how do sounds arise?']; // caps vs lc?
+var items = ['who is listening?', 'who is the listener?', 'what is sounding?', 'what is the quality of a sound you hear (real or imagined)?', 'what is the character of a sound you hear (real or imagined)?', 'where is the listener?', 'where do sounds arise?', 'when do sounds arise?', 'why judge sounds?', 'how do sounds arise?'];
 
 var generatedText = random_item(items);
     myText = document.createTextNode(generatedText);
-document.body.appendChild(myText); // huh?
-
-// add next question function on click, blank click to begin
-// add more questions
+document.body.appendChild(myText);
