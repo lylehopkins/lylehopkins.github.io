@@ -6,7 +6,7 @@
 
 body {
   font-family: arial, sans-serif;
-  color: #ffffff;
+  background-color: #ffffff;
   cursor: s-resize;
 }
 
@@ -18,10 +18,6 @@ a:active {
   color: #ffc0cb;
   background-color: transparent;
   text-decoration: none;
-}
-
-img {
-  width: 95%;
 }
 
 .header {
